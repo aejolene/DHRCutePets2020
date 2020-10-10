@@ -1180,6 +1180,11 @@ input, select, textarea {
 					transform: translateY(0);
 				}
 
+			#leaderboard {
+				visibility: collapse;
+			}
+
+
 		}
 
 /* Poptrox Popup */
