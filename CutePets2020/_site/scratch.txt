@@ -1,0 +1,28 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdIcoWfl-P-6aqt1zNYb-ACz6o7zdAPq_1-FysywAXXPhDqTQ/viewform?usp=pp_url&entry.1571134058=01&entry.243142700=02
+
+
+    <form class="form" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIcoWfl-P-6aqt1zNYb-ACz6o7zdAPq_1-FysywAXXPhDqTQ/formResponse"><label>Votes</label><input name="entry.1558941179" type="text" /><input type="submit" value="Send" /></form>
+
+    https://forms.gle/4hBAf4FNFZz35Qcc8
+
+
+    </section>
+      {%- include social.html -%}
+      <p class="copyright">
+        &copy; <a href="mailto:{{ site.email }}">{{ site.author }}</a>. Design: <a href="http://html5up.net">HTML5 UP</a>.
+      </p>
+    </div>
+    <div>
+      <section>
+
+CAPTION Submitted by NAME.<form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIcoWfl-P-6aqt1zNYb-ACz6o7zdAPq_1-FysywAXXPhDqTQ/formResponse" method="post"><div class="form-element"></div><span>Votes</span><input type="text" name="entry.ELEMENTID" required placeholder="$"></br><button type="submit" name="button">Cast Votes</button></form>
+
+
+
+
+      https://docs.google.com/forms/d/e/1FAIpQLSdIcoWfl-P-6aqt1zNYb-ACz6o7zdAPq_1-FysywAXXPhDqTQ/viewform?usp=pp_url&entry.1571134058=01&entry.243142700=02&entry.1397587100=03&entry.1263414243=04&entry.1427149479=05&entry.1589108835=06&entry.228172830=07&entry.1627661238=08&entry.156850206=09&entry.1131801533=10&entry.859299598=11&entry.567806038=12&entry.1630890755=13&entry.1467547706=14&entry.1492637626=15&entry.548077488=16&entry.1155000143=17&entry.146873495=18&entry.1591788363=19&entry.1538201214=20&entry.102686257=21&entry.1344770066=22&entry.618143901=23&entry.547721792=24&entry.745010516=25&entry.1907819414=26&entry.1922137606=27&entry.948502369=28
+
+thumbs- make them 360 px wide full- make them max 1024 wide
+
+
+        entry.=01&entry.=02&entry.=03&entry.=04&entry.=05&entry.=06&entry.=07&entry.=08&entry.=09&entry.=10&entry.=11&entry.=12&entry.=13&entry.=14&entry.=15&entry.=16&entry.=17&entry.=18&entry.=19&entry.=20&entry.=21&entry.=22&entry.=23&entry.=24&entry.=25&entry.=26&entry.=27&entry.=28
