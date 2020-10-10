@@ -24,5 +24,16 @@ CAPTION Submitted by NAME.<form action="https://docs.google.com/forms/u/1/d/e/1F
 
 thumbs- make them 360 px wide full- make them max 1024 wide
 
+h2
+
+.caption
+background: rgba(0, 0, 0, 0.6);
+
+chart 
+https://docs.google.com/spreadsheets/d/1hfW0d2SCYaEqU_4-tkxfSKmMnshr1Ka72H7nRDrOgkE/edit#gid=119981097&range=AH36
+
+<iframe width="1284" height="591" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1hfW0d2SCYaEqU_4-tkxfSKmMnshr1Ka72H7nRDrOgkE/htmlembed/sheet?gid=119981097&range=AH36"></iframe>
+
+https://docs.google.com/spreadsheets/d/1hfW0d2SCYaEqU_4-tkxfSKmMnshr1Ka72H7nRDrOgkE/htmlembed/sheet?gid=119981097&range=AH36
 
         entry.=01&entry.=02&entry.=03&entry.=04&entry.=05&entry.=06&entry.=07&entry.=08&entry.=09&entry.=10&entry.=11&entry.=12&entry.=13&entry.=14&entry.=15&entry.=16&entry.=17&entry.=18&entry.=19&entry.=20&entry.=21&entry.=22&entry.=23&entry.=24&entry.=25&entry.=26&entry.=27&entry.=28
