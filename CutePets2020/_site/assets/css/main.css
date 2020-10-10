@@ -7,6 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 @-moz-keyframes spinner {
 	0% {
 		-moz-transform: rotate(0deg);
@@ -1276,6 +1277,7 @@ input, select, textarea {
 			text-align: left;
 			width: 100%;
 			z-index: 2;
+			background: rgba(0, 0, 0, 0.5);
 		}
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
