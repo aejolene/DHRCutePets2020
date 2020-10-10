@@ -1,0 +1,22 @@
+title: DHR Cute Pets 2020
+author: Jolene Smith
+email: jolene.smith@dhr.virginia.gov
+description: >-
+  Will my description actually change?
+
+social:
+  twitter:
+  facebook:
+  instagram:
+  github: 
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true

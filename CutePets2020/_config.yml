@@ -1,0 +1,22 @@
+title: DHR Cute Pets 2020
+author: Jolene Smith
+email: jolene.smith@dhr.virginia.gov
+description: >-
+  Voting is open to DHR staff from 10/13-10/17. Each vote = $1 pledged with no limits. Vote for many pets! Come back as often as you like! You will receive a summary of pledges at the end of the contest.
+
+social:
+  twitter:
+  facebook:
+  instagram:
+  github:
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
